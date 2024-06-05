@@ -147,4 +147,14 @@ Projeto para a disciplina ECM514-Ciência de Dados
 - PyTorch
 - GitHub
 
+# Entrega do projeto
+## Notebook
+Acesse nosso notebook no Google Colaboratory: 
+- https://colab.research.google.com/drive/1VVUzSIWK1ig1ZQfYI91an9MOO9NLjuTx?usp=sharing
 
+## Datafólio
+![Datafólio_AnaliseDeAcidentesDeTransitoEmChicago (2)](https://github.com/ECM514-Ciencia-de-Dados/BusinessCase/assets/100284905/4d70f40d-8365-4dc5-9378-80bcac5c962d)
+
+## Vídeo
+Clique o link para ter acesso ao nosso vídeo de apresentação técnica do datafólio:
+- [Apresentação técnica do datafólio](https://youtu.be/M3Di2EH4M0Q)
